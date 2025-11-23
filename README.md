@@ -10,27 +10,13 @@
 
 Hundreds of people (especially children go missing every day) in India. There are various <b>NGO's and Govt Initiatives</b> to help with it. This project tries to implement an  existing/new way to help.
 
-### News Articles
+News Articles
 
 <img src="https://www.justgreatlawyers.com/images/4f76ee1049f0d162d75ddee5bb4f7be858318a17.jpeg" alt="News Article 1" width="400" height="200"/>
 <img src="https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/miscellaneous/Data.jpg&w=900&height=601" alt="News Article 2" width="400" height="200"/>
 <img src="https://github.com/gaganmanku96/Finding-missing-person-using-AI/blob/master/resources/image-3.png?raw=true" alt="News Article 3" width="400" height="200"/>
 
 
-Screenshots
-
-<table>
-  <tr>
-    <td><img src="C:\Users\NAVYA\OneDrive\Desktop\first.png" width="200" alt="Description 1"></td>
-    <td><img src="./resources/ss_image-1.png" width="200" alt="Description 2"></td>
-    <td><img src="./resources/ss_image-2.png" width="200" alt="Description 3"></td>
-  </tr>
-  <tr>
-    <td><img src="./resources/ss_image-3.png" width="200" alt="Description 4"></td>
-    <td><img src="./resources/ss_image-4.png" width="200" alt="Description 5"></td>
-    <td><img src="./resources/ss_image-5.png" width="200" alt="Description 6"></td>
-  </tr>
-</table>
 
 
 ## What is the objective of this Project and how will it help?
@@ -88,6 +74,7 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 ### Vote of Thanks
 - Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!
+
 
 
 
