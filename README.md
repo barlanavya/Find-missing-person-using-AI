@@ -12,7 +12,7 @@ Hundreds of people (especially children go missing every day) in India. There ar
 
 ### News Articles
 
-<img src="./resources/image.png" alt="News Article 1" width="400" height="100"/>
+<img src="https://www.justgreatlawyers.com/images/4f76ee1049f0d162d75ddee5bb4f7be858318a17.jpeg" alt="News Article 1" width="400" height="100"/>
 <img src="./resources/image-1.png" alt="News Article 2" width="400" height="100"/>
 <img src="./resources/image-2.png" alt="News Article 3" width="400" height="100"/>
 <img src="./resources/image-3.png" alt="News Article 4" width="400" height="250"/>
@@ -88,4 +88,5 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 ### Vote of Thanks
 - Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!
+
 
