@@ -14,10 +14,10 @@ Hundreds of people (especially children go missing every day) in India. There ar
 
 <img src="https://www.justgreatlawyers.com/images/4f76ee1049f0d162d75ddee5bb4f7be858318a17.jpeg" alt="News Article 1" width="400" height="200"/>
 <img src="https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2019/miscellaneous/Data.jpg&w=900&height=601" alt="News Article 2" width="400" height="200"/>
-<img src="https://github.com/gaganmanku96/Finding-missing-person-using-AI/blob/master/resources/image-3.png?raw=true" alt="News Article 3" width="400" height="100"/>
+<img src="https://github.com/gaganmanku96/Finding-missing-person-using-AI/blob/master/resources/image-3.png?raw=true" alt="News Article 3" width="400" height="200"/>
 
 
-### Screenshots
+Screenshots
 
 <table>
   <tr>
@@ -88,6 +88,7 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 ### Vote of Thanks
 - Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!
+
 
 
 
