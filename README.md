@@ -21,7 +21,7 @@ Screenshots
 
 <table>
   <tr>
-    <td><img src="./resources/ss_image.png" width="200" alt="Description 1"></td>
+    <td><img src="C:\Users\NAVYA\OneDrive\Desktop\first.png" width="200" alt="Description 1"></td>
     <td><img src="./resources/ss_image-1.png" width="200" alt="Description 2"></td>
     <td><img src="./resources/ss_image-2.png" width="200" alt="Description 3"></td>
   </tr>
@@ -88,6 +88,7 @@ Thousands of people, especially children, go missing every day in India. Despite
 
 ### Vote of Thanks
 - Thanks to the [MediaPipe](https://mediapipe.dev/) team for their open-source face mesh solution, now powering this project!
+
 
 
 
